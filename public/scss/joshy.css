@@ -1,0 +1,20 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,,800,900);
+.title {
+  font-weight: 800;
+  color: transparent;
+  font-size: 80px;
+  background: url("../img/flat-mountains.png") repeat;
+  background-position: 40% 50%;
+  -webkit-background-clip: text;
+  position: relative;
+  text-align: center;
+  line-height: 80px;
+  letter-spacing: -5px;
+}
+
+.subtitle {
+  display: block;
+  text-align: center;
+  text-transform: uppercase;
+  padding-bottom: 50px;
+}/*# sourceMappingURL=joshy.css.map */
